@@ -15,7 +15,9 @@ public class HowdyFromEd {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Howdy from Ed");
+        String msg = "What's up?";
+        System.out.println("Howdy from Ed. " + msg);
+        
     }
     
 }
